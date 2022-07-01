@@ -12,8 +12,18 @@ Simply go to [https://kzg.gg/discord](https://kzg.gg/discord)
 ## What are the Discord Rules?
  A full set of the discord rules can be <a href="#" target="_blank">found here</a>.
  
-## How do I sync my Discord and Steam?
+## How do I sync my Discord?
 To sync your **Discord** account visit the <a href="https://kzg.gg/forum/settings/login/?service=16" target="_blank">Discord Settings</a> section under your <a href="https://kzg.gg/forum/settings/" target="_blank">Forums Account settings</a>.
+
+## Why should I sync my Discord?
+Syncing your Discord gives you extra features such as;
+* Embeds
+* Posting URL's
+* Being able to share you screen
+* Turning on your camera
+
+to list a few.
+
 ## Server Boosting
 
 ### Why should I boost the Discord?
