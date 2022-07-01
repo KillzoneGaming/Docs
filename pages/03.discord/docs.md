@@ -13,7 +13,7 @@ Simply go to [https://kzg.gg/discord](https://kzg.gg/discord)
  A full set of the discord rules can be <a href="#" target="_blank">found here</a>.
  
 ## How do I sync my Discord and Steam?
-To sync your **Discord** account **Steam** account visit the <a href="https://kzg.gg/forum/settings/login/?service=16" target="_blank">Discord Settings</a> section or <a href="https://kzg.gg/forum/settings/login/?service=16" target="_blank">Steam Settings</a> section under your <a href="https://kzg.gg/forum/settings/" target="_blank">Forums Account settings</a>.
+To sync your **Discord** account visit the <a href="https://kzg.gg/forum/settings/login/?service=16" target="_blank">Discord Settings</a> section under your <a href="https://kzg.gg/forum/settings/" target="_blank">Forums Account settings</a>.
 ## Server Boosting
 
 ### Why should I boost the Discord?
