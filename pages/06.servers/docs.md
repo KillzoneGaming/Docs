@@ -1,7 +1,7 @@
 ---
 title: Servers
 page-toc:
-    active: false
+    active: true
 ---
 
 # Overview
