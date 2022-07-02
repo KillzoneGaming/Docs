@@ -1,5 +1,5 @@
 ---
-title: Rules
+title: Server Rules
 page-toc:
     active: true
 ---
